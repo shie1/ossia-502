@@ -51,8 +51,8 @@ function App() {
           main: { backgroundColor: theme.colorScheme === 'dark' ? theme.colors.dark[8] : theme.colors.gray[0] },
         })}
       >
-        <Container sx={{ height: '80vh' }}>
-          <Group spacing={0} position="center" align="center" sx={{ height: '90%' }} direction="row">
+        <Container sx={{ height: '70vh' }}>
+          <Group spacing={0} position="center" align="center" sx={{ height: '100%' }} direction="row">
             <Center mx={10}>
               <Image imageProps={{ draggable: false }} alt="Sad robot on tower" sx={{ width: '28vh' }} src="/sad_robot.svg" />
             </Center>
