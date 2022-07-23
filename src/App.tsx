@@ -57,7 +57,7 @@ function App() {
               <Image imageProps={{ draggable: false }} alt="Sad robot on tower" sx={{ width: '28vh' }} src="/sad_robot.svg" />
             </Center>
             <Group align="center" mx={20} direction="column" spacing={4}>
-              <Title align="center" sx={{ fontSize: '3rem' }}>505</Title>
+              <Title align="center" sx={{ fontSize: '3rem' }}>502</Title>
               <Text align="center" size="xl">The page is currently offline, we're probably updating something.</Text>
             </Group>
           </Group>
